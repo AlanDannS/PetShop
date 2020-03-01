@@ -1,0 +1,46 @@
+@media screen and (max-width:768px) {
+    .products {
+        display: inherit;
+        height: auto;
+    }
+    .product {
+        margin-top: auto;
+    }
+    .main_section {
+        padding: 0;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .main_section h1 {
+        width: 70%;
+        margin: 0 15% 0 15%;
+    }
+    .categorias {
+        width: 100%;
+        display: inherit;
+        justify-content: center;
+    }
+    .container-categorias {
+        width: 60%;
+        margin: 0 20% 0 20%;
+    }
+    .container-categorias img {
+        width: 40%;
+    }
+    .container-categorias p {
+        padding: 0 20% 0 20%;
+    }
+    .menciones {
+        display: inherit;
+        width: 100%;
+        text-align: center;
+    }
+    .menciones h2 {
+        display: block;
+    }
+    .containt-menciones {
+        width: 50%;
+        margin: 0 25% 0 25%;
+        justify-content: center;
+    }
+}
